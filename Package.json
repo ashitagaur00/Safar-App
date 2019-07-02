@@ -1,0 +1,10 @@
+[{"id":"1","student_name":"Rohit","student_phone_number":"1234567890","student_subject":"C++"},
+{"id":"2","student_name":"Mukesh","student_phone_number":"0987654321","student_subject":"PHP"},
+{"id":"4","student_name":"Rita","student_phone_number":"1234567890","student_subject":"JAVA"},
+{"id":"5","student_name":"Nikita","student_phone_number":"0987654321","student_subject":"Maths"},
+{"id":"6","student_name":"Sonal","student_phone_number":"1234567890","student_subject":"English"},
+{"id":"7","student_name":"Pankaj","student_phone_number":"1029384756","student_subject":"HTML"},
+{"id":"8","student_name":"Nighat","student_phone_number":"0987654321","student_subject":"Android"},
+{"id":"9","student_name":"Amit","student_phone_number":"0987654321","student_subject":"Operating System"},
+{"id":"10","student_name":"Dipak","student_phone_number":"1234567890","student_subject":"Hindi"},
+{"id":"11","student_name":"Ravish","student_phone_number":"0987654321","student_subject":"DBMS"}]
